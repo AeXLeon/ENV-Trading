@@ -1,4 +1,4 @@
-markdown# Blade Ball Trading Hub
+markdown # Blade Ball Trading Hub
 
 Eine moderne Trading-Plattform für Blade Ball Items in Roblox.
 
